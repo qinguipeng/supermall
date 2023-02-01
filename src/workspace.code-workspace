@@ -1,0 +1,12 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\.."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Node工程化与模块化",
+        "editor.tabSize": 4,
+        "emmet.triggerExpansionOnTab": true
+    }
+}

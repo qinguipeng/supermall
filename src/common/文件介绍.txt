@@ -1,0 +1,6 @@
+
+文件         存放
+
+const.js    公用常量
+utils.js    公用工具
+mixin.js    混入
