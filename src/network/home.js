@@ -10,3 +10,14 @@ export function getHomeDate() {
         }
     })
 }
+
+// 获取首页页面商品数据
+export function getHomeGoods(type, page) {
+    return request({
+        url: '/home/data',
+        params: {
+            type,
+            page
+        }
+    })
+}
